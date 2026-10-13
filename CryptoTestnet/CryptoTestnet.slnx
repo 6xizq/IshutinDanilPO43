@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Crypto.Client/Crypto.Client.csproj" Id="68437335-b030-4366-a1fc-bb4d87b8e083" />
+  <Project Path="Crypto.Core/Crypto.Core.csproj" />
+  <Project Path="Crypto.Node/Crypto.Node.csproj" />
+  <Project Path="CryptoTestnet/CryptoTestnet.csproj" />
+</Solution>
